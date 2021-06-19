@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gurpindercheema
-- 👀 I’m interested in Artificial Intelligence, Neural Netwokorks and programming for gaming. 
+- 👀 I’m interested in AI, Neural Networks & programming for gaming. 
 - 🌱 I’m currently learning Python3 (& C# for Unity3d and Unreal Engine) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me > twitter,insta&yt @GurpsCheema or gurpinder.cheema@outlook.com 
